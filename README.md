@@ -2,6 +2,7 @@
 # 🕷️ KeySpyder
 
 KeySpyder, Python ile yazılmış, kullanıcıların klavye tuş kayıtlarını izleyen (keylogger) ve bu kayıtları e-posta yoluyla ileten bir araçtır. Eğitim ve güvenlik testleri amacıyla geliştirilmiştir.
+![Ekran görüntüsü 2025-05-24 210733](https://github.com/user-attachments/assets/31fca2d3-2862-4fe2-b962-4fe0cdc55ca2)
 
 ---
 
