@@ -1,0 +1,4 @@
+pynput
+rich
+colorama
+pyfiglet
