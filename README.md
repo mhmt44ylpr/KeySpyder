@@ -121,9 +121,9 @@ Ardından `dist/Keyspader.exe` içinde EXE dosyanız hazır olacaktır.
 
 ## 🧑‍💻 Geliştirici
 
-**KeySpyder** by [Senin Adın]  
+**KeySpyder** by CHARON 
  
-📌 GitHub: [github.com/kullaniciadi](https://github.com/mhmt44ylpr)
+📌 GitHub: [github.com/mhmt44ylpr](https://github.com/mhmt44ylpr)
 
 ---
 
